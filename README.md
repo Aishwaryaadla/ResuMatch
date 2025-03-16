@@ -10,7 +10,7 @@ Because every great career deserves a winning resume.
 
 ## 🎯 What ResuMatch Does
 
-- Reads Your Resume – Upload your .pdf or .txt file, and ResuMatch gets to work.
+- **Reads Your Resume** – Upload your .pdf or .txt file, and ResuMatch gets to work.
 - Figures Out Your Best Job Fit – AI scans your skills and experience to predict the best job category for you.
 - Compares You with Industry Standards – Ever wondered how well your skills match your dream role? Now you’ll know.
 - Gives Smart Feedback – Missing some must-have skills? ResuMatch tells you what to improve.
@@ -78,7 +78,8 @@ Because every great career deserves a winning resume.
 💡 Got ideas? Drop a feature request or contribute!
 
 
-
+##
+🔥 ResuMatch – The AI Coach Your Resume Deserves!
 
 
 
