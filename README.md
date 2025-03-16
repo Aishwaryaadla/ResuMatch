@@ -11,10 +11,10 @@ Because every great career deserves a winning resume.
 ## 🎯 What ResuMatch Does
 
 - **Reads Your Resume** – Upload your .pdf or .txt file, and ResuMatch gets to work.
-- Figures Out Your Best Job Fit – AI scans your skills and experience to predict the best job category for you.
-- Compares You with Industry Standards – Ever wondered how well your skills match your dream role? Now you’ll know.
-- Gives Smart Feedback – Missing some must-have skills? ResuMatch tells you what to improve.
-- Grades Your Resume Strength – Too short? Too long? Just right? Get the perfect balance.
+- **Figures Out Your Best Job Fit** – AI scans your skills and experience to predict the best job category for you.
+- **Compares You with Industry Standards** – Ever wondered how well your skills match your dream role? Now you’ll know.
+- **Gives Smart Feedback** – Missing some must-have skills? ResuMatch tells you what to improve.
+- **Grades Your Resume Strength** – Too short? Too long? Just right? Get the perfect balance.
 
 
 ## ⚡ Try It Out in 3 Easy Steps!
@@ -44,22 +44,24 @@ Because every great career deserves a winning resume.
 
 ## 🏆 ResuMatch’s Superpowers
 
-- AI-Powered Resume Classification – Knows where your resume belongs in the job world.
-- Skill Matching Score – Shows how well your resume fits different roles.
-- Missing Skills Detector – Gives you a checklist to level up!
-- Soft Skills Identifier – Because communication and teamwork matter!
-- Resume Strength Analyzer – Not too short, not too long—just right!
-📌 Think of it as your resume’s report card, but cooler.
+- **AI-Powered Resume Classification** – Knows where your resume belongs in the job world.
+- **Skill Matching Score** – Shows how well your resume fits different roles.
+- **Missing Skills Detector** – Gives you a checklist to level up!
+- **Soft Skills Identifier** – Because communication and teamwork matter!
+- **Resume Strength Analyzer** – Not too short, not too long—just right!
+**📌 Think of it as your resume’s report card, but cooler.**
+
+  
 ## 🏗️ How This AI Wizard Works
 🖥️ Tech Stack:
 
-• Python + Streamlit – Interactive and smooth UI
+• **Python + Streamlit** – Interactive and smooth UI
 
-• NLTK & Regex – Cleans and extracts key resume info
+• **NLTK & Regex** – Cleans and extracts key resume info
 
-• TF-IDF + Machine Learning – Predicts your job category
+• **TF-IDF + Machine Learning** – Predicts your job category
 
-• Scikit-learn – Drives classification and matching
+• **Scikit-learn** – Drives classification and matching
 
 
 ## Interface
@@ -79,7 +81,7 @@ Because every great career deserves a winning resume.
 
 
 ##
-🔥 ResuMatch – The AI Coach Your Resume Deserves!
+**🔥 ResuMatch – The AI Coach Your Resume Deserves!**
 
 
 
