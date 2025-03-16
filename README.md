@@ -32,8 +32,8 @@ Pickle – Model serialization and loading
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/smart-resume-analyzer.git
-cd smart-resume-analyzer
+git clone https://github.com/Aishwaryaadla/ResuMatch.git
+cd ResuMatch
 
 2️⃣ Create a Virtual Environment (Optional but Recommended)
 
@@ -59,7 +59,23 @@ View skill match percentage, missing skills, and resume strength.
 
 Get feedback to improve your resume for better job prospects.
 
-📝 Sample Output
+
+📸 Screenshots
+
+Here are some screenshots of the application in action:
+
+
+
+<img width="1438" alt="Screenshot 2025-03-16 at 1 14 53 PM" src="https://github.com/user-attachments/assets/d9f7c396-93da-4c61-8395-90ab793c0818" />
+
+<img width="1440" alt="Screenshot 2025-03-16 at 1 15 31 PM" src="https://github.com/user-attachments/assets/dc85329a-d5ba-4c3d-881b-9ba6c79923eb" />
+
+<img width="1418" alt="Screenshot 2025-03-16 at 1 15 55 PM" src="https://github.com/user-attachments/assets/6b48a500-9567-4313-b7c6-b9974860b634" />
+
+
+
+
+📝 Sample Output!
 
 Predicted Job Category: Python Developer
 
